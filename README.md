@@ -1,6 +1,7 @@
 # RetrofitLearn
 
-### Android   Retrofit入门学习使用
+### [简书版本](http://www.jianshu.com/p/7c39bfc283b5)
+### Android   Retrofit入门学习使用
 
 ## 是什么？
 
